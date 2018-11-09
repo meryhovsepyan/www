@@ -1,0 +1,17 @@
+﻿Построение начато 17.06.2018 22:58:33.
+     1>Проект "C:\Users\user\Documents\Visual Studio 2010\Projects\class_list\class_list\class_list.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\class_list.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "class list.cpp" soursing_list.cpp
+         soursing_list.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\class_list\class_list\list.h(6): error C2208: int: нет членов, определенных с помощью этого типа
+     1>c:\users\user\documents\visual studio 2010\projects\class_list\class_list\list.h(9): warning C4094: пустое объявление "class" пропускается
+     1>c:\users\user\documents\visual studio 2010\projects\class_list\class_list\soursing_list.cpp(3): error C2039: print: не является членом "`global namespace'"
+         class list.cpp
+         Создание кода...
+     1>Построение проекта "C:\Users\user\Documents\Visual Studio 2010\Projects\class_list\class_list\class_list.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:02.20
